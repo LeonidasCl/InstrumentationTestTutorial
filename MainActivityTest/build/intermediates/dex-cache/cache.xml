@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Workspace\Developments\android\testOFtests\MainActivityTest\libs\robotium-solo-5.5.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6a256c50622dbbadbf15bbe097940fb33bc97faa">
+        <dex dex="F:\Workspace\Developments\android\testOFtests\MainActivityTest\build\intermediates\pre-dexed\androidTest\debug\robotium-solo-5.5.4_4ebbc52e3cf3ca228c29ae71bbb73c61a56b6208.jar" />
+    </item>
+
+</items>

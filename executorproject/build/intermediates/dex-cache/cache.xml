@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Workspace\Developments\android\testOFtests\executorproject\libs\executor.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fcaa0eeae5a5a503470f48ce08261cd9aa5f3474">
+        <dex dex="F:\Workspace\Developments\android\testOFtests\executorproject\build\intermediates\pre-dexed\androidTest\debug\executor_a2d1f036a96f1b40ead09fb6ddd4b143933799f8.jar" />
+    </item>
+    <item
+        jar="F:\Workspace\Developments\android\testOFtests\executorproject\build\intermediates\exploded-aar\ExecutorLibrary\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e77619161f7aa7bf7cfff12a4c0f91889b52bed8">
+        <dex dex="F:\Workspace\Developments\android\testOFtests\executorproject\build\intermediates\pre-dexed\androidTest\debug\intermediates-exploded-aar-ExecutorLibrary_365deb12b20d9d504c6ef83d3bb8abe0ef5ad39b.jar" />
+    </item>
+
+</items>
